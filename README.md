@@ -4,6 +4,8 @@ Proje Açıklaması
 
 Bu proje, bir sinema müşteri kayıt sistemini Java programlama dili ve JSON formatı kullanarak geliştirmeyi amaçlamaktadır. Sistem, müşterilerin kişisel bilgilerini, rezervasyonlarını ve bilet alma geçmişlerini yönetmek için kullanılır. Amacı, sinema salonlarının müşteri veri tabanını etkin bir şekilde yönetmelerini sağlamaktır.
 
+Özellikler
+
 Müşteri Kayıt:
 Kullanıcılar, kişisel bilgilerini (ad, soyad, e-posta, telefon numarası, vb.) sisteme ekleyebilir.
 
@@ -21,4 +23,5 @@ Hem müşteri bilgileri hem de bilet rezervasyon bilgileri JSON dosyaları olara
 
 Kullanılan Teknolojiler
 Java SE
+
 JSON Parsing Kütüphaneleri (Gson, Jackson vb.)
