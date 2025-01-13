@@ -8,7 +8,7 @@ Bu proje, bir sinema müşteri kayıt sistemini Java programlama dili ve JSON fo
 
 Müşteri Kayıt ve Güncelleme: Kullanıcıların kişisel bilgilerini ekleyebilir ve güncelleyebilir.
 
-Bilet Rezervasyonu ve İptal: Kullanıcıların film seçimi yaparak bilet rezervasyonu yapmaları ve gerektiğinde bu rezervasyonları iptal etmeleri sağlanır.
+Bilet Rezervasyonu: Kullanıcıların film seçimi yaparak bilet rezervasyonu yapmaları sağlanır.
 
 Bilet Alma Geçmişi Takibi: Kullanıcıların daha önce aldıkları biletlerin kayıtları tutulur.
 
