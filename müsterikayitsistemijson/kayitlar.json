@@ -1,0 +1,206 @@
+{
+  "sinemaSalonu": "Salon 1",
+  "film": "Interstellar",
+  "musteri": {
+    "ad": "su",
+    "telefon": "55"
+  },
+  "koltukNo": 10
+}
+,
+{
+  "sinemaSalonu": "Salon 2",
+  "film": "The Matrix",
+  "musteri": {
+    "ad": "11",
+    "telefon": "11",
+    "mail": "11"
+  },
+  "koltuklar": [1],
+  "seans": "16:30"
+}
+,
+{
+  "sinemaSalonu": "Salon 2",
+  "film": "The Matrix",
+  "musteri": {
+    "ad": "55",
+    "telefon": "55",
+    "mail": "55"
+  },
+  "koltuklar": [3, 4],
+  "seans": "20:00"
+}
+,
+{
+  "sinemaSalonu": "Salon 2",
+  "film": "The Matrix",
+  "musteri": {
+    "ad": "11",
+    "telefon": "11",
+    "mail": "11"
+  },
+  "koltuklar": [1, 2],
+  "seans": "16:30"
+}
+,
+{
+  "sinemaSalonu": "Salon 2",
+  "film": "The Matrix",
+  "musteri": {
+    "ad": "2",
+    "telefon": "2",
+    "mail": "2"
+  },
+  "koltuklar": [1, 2],
+  "seans": "16:30"
+}
+,
+{
+  "sinemaSalonu": "Salon 2",
+  "film": "The Matrix",
+  "musteri": {
+    "ad": "4",
+    "telefon": "4",
+    "mail": "4"
+  },
+  "koltuklar": [3],
+  "seans": "16:30"
+}
+,
+{
+  "sinemaSalonu": "Salon 2",
+  "film": "The Matrix",
+  "musteri": {
+    "ad": "11",
+    "telefon": "11",
+    "mail": "11"
+  },
+  "koltuklar": [0, 1],
+  "seans": "16:30"
+}
+,
+{
+  "sinemaSalonu": "Salon 2",
+  "film": "The Matrix",
+  "musteri": {
+    "ad": "1",
+    "telefon": "1",
+    "mail": "1"
+  },
+  "koltuklar": [0],
+  "seans": "13:00"
+}
+,
+{
+  "sinemaSalonu": "Salon 1",
+  "film": "Interstellar",
+  "musteri": {
+    "ad": "1",
+    "telefon": "1",
+    "mail": "1"
+  },
+  "koltuklar": [0],
+  "seans": "12:00",
+  "fisNumarasi": "FIS-7089",
+  "biletUcreti": "0"
+}
+,
+{
+  "sinemaSalonu": "Salon 2",
+  "film": "The Matrix",
+  "musteri": {
+    "ad": "1",
+    "telefon": "1",
+    "mail": "1"
+  },
+  "koltuklar": [0],
+  "seans": "13:00",
+  "fisNumarasi": "FIS-5602",
+  "biletUcreti": "0"
+}
+,
+{
+  "sinemaSalonu": "Salon 1",
+  "film": "Interstellar",
+  "musteri": {
+    "ad": "1",
+    "telefon": "1",
+    "mail": "1"
+  },
+  "koltuklar": [0],
+  "seans": "12:00",
+  "fisNumarasi": "FIS-7366",
+  "biletUcreti": "0"
+}
+,
+{
+  "sinemaSalonu": "Salon 2",
+  "film": "The Matrix",
+  "musteri": {
+    "ad": "1",
+    "telefon": "1",
+    "mail": "1"
+  },
+  "koltuklar": [0, 0],
+  "seans": "13:00",
+  "fisNumarasi": "FIS-7187",
+  "biletUcreti": "210"
+}
+,
+{
+  "sinemaSalonu": "Salon 1",
+  "film": "Interstellar",
+  "musteri": {
+    "ad": "1",
+    "telefon": "1",
+    "mail": "1"
+  },
+  "koltuklar": [0],
+  "seans": "12:00",
+  "fisNumarasi": "FIS-910",
+  "biletUcreti": "105"
+}
+,
+{
+  "sinemaSalonu": "Salon 2",
+  "film": "The Matrix",
+  "musteri": {
+    "ad": "2",
+    "telefon": "2",
+    "mail": "2"
+  },
+  "koltuklar": [1, 1],
+  "seans": "16:30",
+  "fisNumarasi": "FIS-9493",
+  "biletUcreti": "210"
+}
+,
+{
+  "sinemaSalonu": "Salon 1",
+  "film": "Interstellar",
+  "musteri": {
+    "ad": "1",
+    "telefon": "1",
+    "mail": "1"
+  },
+  "koltuklar": [0, 0],
+  "seans": "12:00",
+  "fisNumarasi": "FIS-2359",
+  "biletUcreti": "210"
+}
+,
+{
+  "sinemaSalonu": "Salon 2",
+  "film": "Şabaniye",
+  "musteri": {
+    "ad": "2",
+    "telefon": "2",
+    "mail": "2"
+  },
+  "koltuklar": [1, 1],
+  "seans": "16:30",
+  "fisNumarasi": "FIS-9862",
+  "biletUcreti": "210"
+}
+,
