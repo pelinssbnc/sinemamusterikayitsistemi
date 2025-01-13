@@ -1,4 +1,5 @@
 Java Tabanlı Sinema Müşteri Kayıt Sistemi
+
 Bu proje, Java programlama dili ve JSON formatı kullanılarak geliştirilmiş bir sinema müşteri kayıt sistemidir. Sistem, müşterilerin kişisel bilgilerini, rezervasyonlarını ve bilet alma geçmişlerini etkin bir şekilde yönetmeyi amaçlar. Sinema salonlarının müşteri veri tabanlarını dijital ortamda saklamasını ve yönetmesini kolaylaştırır.
 
 Özellikler
@@ -17,5 +18,6 @@ Veriler, gerektiğinde sistemin kapanmasının ardından yeniden yüklenebilir.
 JSON dosyaları, veritabanı gibi çalışarak müşterilerin ve rezervasyonların bilgilerinin kaybolmadan saklanmasını sağlar.
 
 Kullanılan Teknolojiler:
+
 Java SE: Java programlama dilinin standart sürümü kullanılarak uygulama geliştirilmiştir.
 JSON Parsing Kütüphaneleri: Gson, Jackson gibi kütüphaneler kullanılarak JSON formatında veriler işlenmiştir.
